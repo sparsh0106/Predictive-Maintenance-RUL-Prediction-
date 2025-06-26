@@ -4,7 +4,7 @@
 This project predicts the **Remaining Useful Life (RUL)** of a water pump using sensor data from the dataset `rul_hrs.csv`. Two implementations are provided: `CPU.ipynb` (using CPU-based libraries) and `GPU.ipynb` (using GPU-accelerated libraries). Both notebooks preprocess the data, apply **Principal Component Analysis (PCA)** for dimensionality reduction, train a **Random Forest Regressor**, and evaluate its performance to predict the RUL in hours.
 
 ## Dataset
-- **File**: `rul_hrs.csv`
+- **Link**: 
 - **Description**: Contains 166,441 rows with 53 columns:
   - `timestamp`: Date and time of sensor readings (2018-04-01 to 2018-07-25).
   - 51 sensor columns (e.g., `sensor_00` to `sensor_51`): Various sensor measurements.
